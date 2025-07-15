@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Test"
+title: "Super Test"
 permalink: /test/
 author_profile: true
 ---
