@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Test1"
+title: "A Turing Complete 8-Bit Computer Programmed in Verilog"
 permalink: /publications/
 author_profile: true
 ---
